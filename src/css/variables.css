@@ -1,0 +1,6 @@
+:root {
+    --background-screen: hsl(0, 0%, 8%);
+    --card-color: hsl(0, 0%, 12%);
+    --button-color: hsl(0, 0%, 20%);
+    --city-name: hsl(75, 94%, 57%);
+}
